@@ -20,3 +20,5 @@
  * [Source](https://github.com/01org/appframework)
 * [jQuery Mobile](http://jquerymobile.com/)
  * [Source](https://github.com/jquery/jquery-mobile)
+* [React](https://facebook.github.io/react/)
+ * [Source](https://github.com/facebook/react)

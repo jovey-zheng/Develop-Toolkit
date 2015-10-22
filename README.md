@@ -22,3 +22,18 @@
  * [Source](https://github.com/jquery/jquery-mobile)
 * [React](https://facebook.github.io/react/)
  * [Source](https://github.com/facebook/react)
+
+# Extension API
+* [BMap](http://developer.baidu.com/map/)
+* [HaoService](http://www.haoservice.com/)
+
+# Chart Tool
+* [ECharts](http://echarts.baidu.com/)
+
+# Development Framework
+* [Express](http://expressjs.com/)
+ * [Source](https://github.com/strongloop/express)
+
+# Package Tool
+* [Brunch](http://brunch.io/)
+ * [Source](https://github.com/brunch/brunch)

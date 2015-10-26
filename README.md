@@ -14,7 +14,7 @@
 # Framework
 * [Bootstrap](http://getbootstrap.com/)
  * [Source](https://github.com/twbs/bootstrap)
-* [angular.js](http://angularjs.org/)
+* [Angular.js](http://angularjs.org/)
  * [Source](https://github.com/angular/angular.js)
 * [App Framework](http://app-framework-software.intel.com/)
  * [Source](https://github.com/01org/appframework)
@@ -37,3 +37,5 @@
 # Package Tool
 * [Brunch](http://brunch.io/)
  * [Source](https://github.com/brunch/brunch)
+* [Webpack](https://webpack.github.io/)
+ * [Source](https://github.com/webpack/webpack)

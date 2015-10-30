@@ -39,3 +39,6 @@
  * [Source](https://github.com/brunch/brunch)
 * [Webpack](https://webpack.github.io/)
  * [Source](https://github.com/webpack/webpack)
+
+# CSS
+* [FontAwesome](http://www.fontawesome.io)

@@ -42,3 +42,4 @@
 
 # CSS
 * [FontAwesome](http://www.fontawesome.io)
+ * [Source](https://github.com/FortAwesome/Font-Awesome)

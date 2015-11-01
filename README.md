@@ -43,3 +43,7 @@
 # CSS
 * [FontAwesome](http://www.fontawesome.io)
  * [Source](https://github.com/FortAwesome/Font-Awesome)
+
+# Unfancy JavaScript
+* [Coffee Script](http://coffeescript.org/)
+ * [Source](https://github.com/jashkenas/coffeescript) 

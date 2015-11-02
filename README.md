@@ -47,3 +47,7 @@
 # Unfancy JavaScript
 * [Coffee Script](http://coffeescript.org/)
  * [Source](https://github.com/jashkenas/coffeescript) 
+
+# Extension JavaScript
+* [Underscore](http://underscorejs.org/)
+ * [Source](https://github.com/jashkenas/underscore)

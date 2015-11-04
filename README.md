@@ -51,3 +51,5 @@
 # Extension JavaScript
 * [Underscore](http://underscorejs.org/)
  * [Source](https://github.com/jashkenas/underscore)
+* [Lodash](https://lodash.com/)
+ * [Source](https://github.com/lodash/lodash)

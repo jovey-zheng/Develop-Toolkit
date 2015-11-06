@@ -43,7 +43,7 @@
 # CSS
 * [FontAwesome](http://www.fontawesome.io)
  * [Source](https://github.com/FortAwesome/Font-Awesome)
-* [Animate]http://daneden.github.io/animate.css/)
+* [Animate](http://daneden.github.io/animate.css/)
  * [Source](https://github.com/daneden/animate.css)
 
 # Unfancy JavaScript

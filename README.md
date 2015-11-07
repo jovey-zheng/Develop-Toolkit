@@ -33,6 +33,8 @@
 # Development Framework
 * [Express](http://expressjs.com/)
  * [Source](https://github.com/strongloop/express)
+* [Redux](http://redux.js.org/)
+ * [Source](https://github.com/rackt/redux)
 
 # Package Tool
 * [Brunch](http://brunch.io/)

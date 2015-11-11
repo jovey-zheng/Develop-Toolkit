@@ -41,6 +41,8 @@
  * [Source](https://github.com/brunch/brunch)
 * [Webpack](https://webpack.github.io/)
  * [Source](https://github.com/webpack/webpack)
+* [Gulp](http://gulpjs.com)
+ * [Source](https://github.com/gulpjs/gulp)
 
 # CSS
 * [FontAwesome](http://www.fontawesome.io)

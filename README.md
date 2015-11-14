@@ -7,9 +7,9 @@
 # Language
 * C#
 * [Nodejs](https://nodejs.org/en/)  
-* HTML
-* CSS
-* JavaScript
+* HTML/HTML5
+* CSS/CSS3
+* JavaScript(ES5/ES6)
 
 # Framework
 * [Bootstrap](http://getbootstrap.com/)

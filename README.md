@@ -9,7 +9,7 @@
 * [Nodejs](https://nodejs.org/en/)  
 * HTML/HTML5
 * CSS/CSS3
-* JavaScript(ES5/ES6)
+* JavaScript(ES5/ES6<Babel>)
 
 # Framework
 * [Bootstrap](http://getbootstrap.com/)

@@ -63,5 +63,7 @@
 # Test Framework
 * [Mocha](http://mochajs.org/)
  * [Source](https://github.com/mochajs/mocha)
+* [enzyme](http://airbnb.io/enzyme/) **for test react components**
+ * [Source](https://github.com/airbnb/enzyme)
 
 # Middleware
